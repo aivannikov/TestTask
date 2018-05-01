@@ -1,0 +1,13 @@
+H:\C programs\Tecwi\Tecwi\Tecwi\bin\Debug\netcoreapp2.0\Tecwi.Run.deps.json
+H:\C programs\Tecwi\Tecwi\Tecwi\bin\Debug\netcoreapp2.0\Tecwi.Run.runtimeconfig.json
+H:\C programs\Tecwi\Tecwi\Tecwi\bin\Debug\netcoreapp2.0\Tecwi.Run.runtimeconfig.dev.json
+H:\C programs\Tecwi\Tecwi\Tecwi\bin\Debug\netcoreapp2.0\Tecwi.Run.dll
+H:\C programs\Tecwi\Tecwi\Tecwi\bin\Debug\netcoreapp2.0\Tecwi.Run.pdb
+H:\C programs\Tecwi\Tecwi\Tecwi\obj\Debug\netcoreapp2.0\Tecwi.Run.csproj.CoreCompileInputs.cache
+H:\C programs\Tecwi\Tecwi\Tecwi\obj\Debug\netcoreapp2.0\Tecwi.Run.AssemblyInfoInputs.cache
+H:\C programs\Tecwi\Tecwi\Tecwi\obj\Debug\netcoreapp2.0\Tecwi.Run.AssemblyInfo.cs
+H:\C programs\Tecwi\Tecwi\Tecwi\obj\Debug\netcoreapp2.0\Tecwi.Run.dll
+H:\C programs\Tecwi\Tecwi\Tecwi\obj\Debug\netcoreapp2.0\Tecwi.Run.pdb
+H:\C programs\Tecwi\Tecwi\Tecwi\obj\Debug\netcoreapp2.0\Tecwi.Run.csprojResolveAssemblyReference.cache
+H:\C programs\Tecwi\Tecwi\Tecwi\bin\Debug\netcoreapp2.0\Tecwi.BusinessLogic.dll
+H:\C programs\Tecwi\Tecwi\Tecwi\bin\Debug\netcoreapp2.0\Tecwi.BusinessLogic.pdb

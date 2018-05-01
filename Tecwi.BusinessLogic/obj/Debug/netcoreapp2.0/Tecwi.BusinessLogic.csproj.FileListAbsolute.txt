@@ -1,0 +1,8 @@
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic\bin\Debug\netcoreapp2.0\Tecwi.BusinessLogic.deps.json
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic\bin\Debug\netcoreapp2.0\Tecwi.BusinessLogic.dll
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic\bin\Debug\netcoreapp2.0\Tecwi.BusinessLogic.pdb
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic\obj\Debug\netcoreapp2.0\Tecwi.BusinessLogic.csproj.CoreCompileInputs.cache
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic\obj\Debug\netcoreapp2.0\Tecwi.BusinessLogic.AssemblyInfoInputs.cache
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic\obj\Debug\netcoreapp2.0\Tecwi.BusinessLogic.AssemblyInfo.cs
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic\obj\Debug\netcoreapp2.0\Tecwi.BusinessLogic.dll
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic\obj\Debug\netcoreapp2.0\Tecwi.BusinessLogic.pdb

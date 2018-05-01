@@ -1,0 +1,17 @@
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\Tecwi.UnitTests.BusinessLogic.deps.json
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\Tecwi.UnitTests.BusinessLogic.dll
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\Tecwi.UnitTests.BusinessLogic.pdb
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\Tecwi.BusinessLogic.dll
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\Tecwi.BusinessLogic.pdb
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\Tecwi.UnitTests.BusinessLogic.csprojResolveAssemblyReference.cache
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\Tecwi.UnitTests.BusinessLogic.csproj.CoreCompileInputs.cache
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\Tecwi.UnitTests.BusinessLogic.AssemblyInfoInputs.cache
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\Tecwi.UnitTests.BusinessLogic.AssemblyInfo.cs
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\Tecwi.UnitTests.BusinessLogic.dll
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\Tecwi.UnitTests.BusinessLogic.pdb
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\Tecwi.UnitTests.BusinessLogic.runtimeconfig.json
+H:\C programs\Tecwi\Tecwi\Tecwi.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\Tecwi.UnitTests.BusinessLogic.runtimeconfig.dev.json
